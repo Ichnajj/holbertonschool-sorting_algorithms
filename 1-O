@@ -1,0 +1,4 @@
+the big O notations of the time complexity of the Insertion sort algorithm
+Best case      : O(n)
+Average case   : O(n^2)
+Worst case     : O(n^2)
